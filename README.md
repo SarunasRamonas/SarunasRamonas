@@ -19,18 +19,20 @@ I'm a technical artist and tool developer working in:<br>
 ---
 
 ### 🌐 Active on:<br>
-![Shadertoy](https://img.shields.io/badge/-Shadertoy-444?style=flat-square&logoColor=white)
-![Godot Forum](https://img.shields.io/badge/-Godot%20Forum-478cbf?style=flat-square&logo=godot-engine&logoColor=white)
-![Unreal Forum](https://img.shields.io/badge/-Unreal%20Forum-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+[![Shadertoy](https://img.shields.io/badge/-Shadertoy-444?style=flat-square&logoColor=white)](https://www.shadertoy.com/user/sarram)
+[![Godot Forum](https://img.shields.io/badge/-Godot%20Forum-478cbf?style=flat-square&logo=godot-engine&logoColor=white)](https://forum.godotengine.org)
+[![Unreal Forum](https://img.shields.io/badge/-Unreal%20Forum-0E1128?style=flat-square&logo=unrealengine&logoColor=white)](https://forums.unrealengine.com/)
+
 
 ---
 
-### 🎯 Main focus:
-
-- 🧠 Tech art solutions
-- 🧪 Shader creation
-- 🔁 Replicating tech art examples from commercial games
-- 🛠 Tool creation for **Godot**, **Unreal Engine**, and **Blender**
+Main focus:<br>
+![Tech Art Solutions](https://img.shields.io/badge/-🧠Tech%20Art%20Solutions-6A5ACD?style=flat-square)
+![Shader Creation](https://img.shields.io/badge/-Shader%20Creation-8A2BE2?style=flat-square&logo=codeforces&logoColor=white)
+![Tech Art Replication](https://img.shields.io/badge/-🔁Tech%20Art%20Replication-556B2F?style=flat-square)
+![Godot Tooling](https://img.shields.io/badge/-Godot%20Tooling-478cbf?style=flat-square&logo=godot-engine&logoColor=white)
+![Unreal Tooling](https://img.shields.io/badge/-Unreal%20Tooling-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![Blender Tooling](https://img.shields.io/badge/-Blender%20Tooling-F5792A?style=flat-square&logo=blender&logoColor=white)
 
 ---
 
