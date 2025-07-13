@@ -3,28 +3,30 @@
   Nice to see you.
 </h1>
 
-### Welcome to my page! <br>
-I'm a technical artist and tool developer working in:<br>
+<div align="center">
+
+  ### Welcome to my page!
+</div>
+
+I'm a technical artist and tool developer working with:<br>
+
 ![Godot](https://img.shields.io/badge/Godot-478cbf?style=flat&logo=godot-engine&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 
----
 
-### 💻 I code in:<br>
+I code in:<br>
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HLSL](https://img.shields.io/badge/-HLSL-1e1e1e?style=flat-square&logoColor=white)
 ![GLSL](https://img.shields.io/badge/-GLSL-ff1493?style=flat-square&logoColor=white)
 
----
 
-### 🌐 Active on:<br>
+
+Active on:<br>
 [![Shadertoy](https://img.shields.io/badge/-Shadertoy-444?style=flat-square&logoColor=white)](https://www.shadertoy.com/user/sarram)
 [![Godot Forum](https://img.shields.io/badge/-Godot%20Forum-478cbf?style=flat-square&logo=godot-engine&logoColor=white)](https://forum.godotengine.org)
 [![Unreal Forum](https://img.shields.io/badge/-Unreal%20Forum-0E1128?style=flat-square&logo=unrealengine&logoColor=white)](https://forums.unrealengine.com/)
 
-
----
 
 Main focus:<br>
 ![Tech Art Solutions](https://img.shields.io/badge/-🧠Tech%20Art%20Solutions-6A5ACD?style=flat-square)
