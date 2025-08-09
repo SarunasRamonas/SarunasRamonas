@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  ### Welcome to my page!
+  ### Welcome!
 </div>
 
 I'm a technical artist and tool developer working with:<br>
